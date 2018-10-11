@@ -7,7 +7,7 @@
 # Default behavior is to never overwrite files
 DemoProject.sln: modified
 DemoProject\App.cs: 7EFCCA30D7BF0F5A1F94302403CB3E7A
-DemoProject\DemoProject.csproj: 723F6533FB51BC07AFE2017D53CF7850
+DemoProject\DemoProject.csproj: 7A0D61D2156ED5EC70FA47656D4ABF38
 DemoProject\DemoProject.csproj.user: modified
 DemoProject\Package.appxmanifest: 6C27FB36F2D447F52DADE53B87FD0BBF
 DemoProject\project.json: 1D02BC64BAC0D041019673A1C4C51737
