@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Earth-Moon_2.unity
+    guid: f48d207dac3b84448a946fc1a4ecfd40
+  - enabled: 0
+    path: Assets/Scenes/Earth-Moon_3.unity
+    guid: 2f63f0eb4a92c3945b76b65003eb3470
+  - enabled: 0
+    path: Assets/test_scene.unity
+    guid: defee33b14157ad4a95edd37fab76d45
+  - enabled: 1
+    path: Assets/test_scene_1.unity
+    guid: 9165b169e93870d42831c022b747a8f7
+  - enabled: 0
+    path: Assets/test_scene_2.unity
+    guid: d11e9a8b28f07f746922bed1df931065
+  - enabled: 0
+    path: Assets/Scenes/Demo.unity
+    guid: fa3fcf6c7d3b4aa488f171f67554f327
